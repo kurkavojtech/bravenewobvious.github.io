@@ -1,25 +1,14 @@
 ---
-layout: page
-title: Why Brave New Obvious?
-permalink: /about/
+layout: post
+title: "How I take the data size with a graing of a salt"
+comments: true
+description: "Blogpost with tips on how to understand what is PostgreSQL doing while analyzing and executing a query. Describing operations it does to understand how to avoid the most expensive ones."
+keywords: "database, postgresql, explain, analyze, optimize"
 ---
-Hi, [I am V](https://www.linkedin.com/in/kurkavojtech/). I am Head Nerd (CTO) and co-founder at&nbsp;[Meiro](https://meiro.io?utm_campaign=v_blog), based in Brno, Czech Republic. I started Brave&nbsp;New&nbsp;Obvious as a way to document all the small victories and big facepalms I experience each day building a data product. You can find me on [Twitter](https://twitter.com/kurkavojtech) and [Facebook](https://www.facebook.com/kurka.vojtech/).
 
-<h2>Why the name?</h2> 
+## What is a query and what is an execution plan?
 
-Because I always have this rollecrcoaster of feelings while programming/debugging/optimizing. 
 
-First, it is excitement, approaching a new problem. I feel brave, exploring new waters.
-
-Then, a few roadbumps. Well, not a few, but quite a lot. 
-
-In the end a victory - something I have built is working. 
-
-But more often it feels like the solution was obvious from the start. That I should have seen it and apply it rightaway, that I haven't done my homework properly.
-
-But is it really the case? There is this czech saying: "After a battle, everyone is a general." The solution in hindsight looks straightforward, obvious. But was it really from the start, before I jumped through all the loops, made numerous iterations? 
-
-This is where you come in. 
 
 <h2>I need your help to decide if the solution was obvious or not</h2>
 
